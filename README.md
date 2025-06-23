@@ -10,7 +10,7 @@ The idea is to understand how memory is allocated during runtime, and the implem
 To compile and run the program, use the following commands:
 
 ```bash
-g++ mymalloc.cpp -o program_name
+g++ mymalloc.c -o program_name
 ./program_name
 ````
 
